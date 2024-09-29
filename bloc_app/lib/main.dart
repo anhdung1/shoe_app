@@ -41,9 +41,7 @@ class MyApp extends StatelessWidget {
       home: BlocProvider(
         lazy: false,
         create: (context) => AuthBloc(),
-        child: MyHome(
-          userDataModel: user,
-        ),
+        child: const Login(),
       ),
     );
   }
