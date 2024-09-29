@@ -1,0 +1,13 @@
+D:/shoe_store/bloc_app/build/windows/x64/CMakeFiles/INSTALL.dir
+D:/shoe_store/bloc_app/build/windows/x64/CMakeFiles/ALL_BUILD.dir
+D:/shoe_store/bloc_app/build/windows/x64/CMakeFiles/ZERO_CHECK.dir
+D:/shoe_store/bloc_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/shoe_store/bloc_app/build/windows/x64/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/shoe_store/bloc_app/build/windows/x64/flutter/CMakeFiles/flutter_assemble.dir
+D:/shoe_store/bloc_app/build/windows/x64/flutter/CMakeFiles/INSTALL.dir
+D:/shoe_store/bloc_app/build/windows/x64/runner/CMakeFiles/bloc_app.dir
+D:/shoe_store/bloc_app/build/windows/x64/runner/CMakeFiles/INSTALL.dir
+D:/shoe_store/bloc_app/build/windows/x64/runner/CMakeFiles/ALL_BUILD.dir
+D:/shoe_store/bloc_app/build/windows/x64/plugins/connectivity_plus/CMakeFiles/connectivity_plus_plugin.dir
+D:/shoe_store/bloc_app/build/windows/x64/plugins/connectivity_plus/CMakeFiles/INSTALL.dir
+D:/shoe_store/bloc_app/build/windows/x64/plugins/connectivity_plus/CMakeFiles/ALL_BUILD.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\shoe_store\bloc_app\build\windows\x64\CMakeFiles\72131d729066ad6b19acf0eadb7cd293\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{29D60CB3-813D-3948-8F83-86629DB26F4D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
